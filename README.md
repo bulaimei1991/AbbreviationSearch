@@ -1,0 +1,2 @@
+# AbbreviationSearch
+用于查询英文缩写词的全拼及其对应注释说明
